@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.steamvrbase.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Documents\\Repositories\\SteamVR Base\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "E:\\Documents\\Repositories\\JAM_Oct_2019_BloodPressureDefense\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "SteamVR Base [Testing]"
