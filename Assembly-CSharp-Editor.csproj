@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{10CDE490-CCBB-0FD4-0DF7-A939776E48C1}</ProjectGuid>
+    <ProjectGuid>{9640140C-7767-59AF-22EC-002E4B112302}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -85,16 +85,16 @@
     <Compile Include="Assets\NVIDIA\Flex\Editor\Tests\FlexTests.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Editor\Tests\FlexUtilsTests.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/Documents/Repositories/SteamVR Base/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Documents/Repositories/SteamVR Base/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/Documents/Repositories/SteamVR Base/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Documents/Repositories/SteamVR Base/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -337,7 +337,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>E:/Documents/Repositories/SteamVR Base/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/jofe6/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -387,27 +387,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{227A11E4-374F-727B-2FC0-BD892222CD8C}</Project>
+      <Project>{7264BB50-64A8-5798-4B0E-B565D8946CA2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Actions.csproj">
-      <Project>{971396C7-2676-0C6B-1C98-1D5AC30EEE30}</Project>
+      <Project>{2673B13E-00C8-6217-E056-B8F28D30F8CA}</Project>
       <Name>SteamVR_Actions</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Input_Editor.csproj">
-      <Project>{B85FF678-0EF0-5F77-DE09-3C7324337417}</Project>
+      <Project>{7832F6E7-1FD8-E282-3D90-E19673EA314B}</Project>
       <Name>SteamVR_Input_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Editor.csproj">
-      <Project>{60B08ED4-664A-5359-67EC-DB48CD245D5F}</Project>
+      <Project>{FEED117D-225E-C6C9-51ED-919D3D61F680}</Project>
       <Name>SteamVR_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR.csproj">
-      <Project>{127E6898-C150-9423-2234-9202E77633FA}</Project>
+      <Project>{E8220D53-B74C-4F7D-3BA6-BDD3B5522317}</Project>
       <Name>SteamVR</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
-      <Project>{298392F1-E007-B8C1-A5BC-2F0EDF07AB99}</Project>
+      <Project>{6E37C830-7BFF-0DC5-EA58-EBA1EC3C4FF4}</Project>
       <Name>SteamVR_Windows_EditorHelper</Name>
     </ProjectReference>
   </ItemGroup>
