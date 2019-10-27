@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour {
+public class EnemyWeak : MonoBehaviour {
 
     public float health = 20f;
     float currentHealth;
@@ -11,7 +11,9 @@ public class Enemy : MonoBehaviour {
     GameObject healthBar;
 
     public Transform currentWaypoint;
-    public float moveSpeed = 1f;
+    public float moveSpeed = 2f;
+
+    //public List<Transform> waypoints = new List<Transform>();
 
 	// Use this for initialization
 	void Awake () {
