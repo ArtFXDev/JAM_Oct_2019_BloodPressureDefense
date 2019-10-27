@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Final Scenes\Scripts\impact.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Actors\FlexActor.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Actors\FlexArrayActor.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Actors\FlexClothActor.cs" />
