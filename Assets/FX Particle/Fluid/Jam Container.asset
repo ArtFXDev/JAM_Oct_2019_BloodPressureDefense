@@ -36,10 +36,10 @@ MonoBehaviour:
   m_maxNeighbors: 200
   m_maxContacts: 6
   m_recreateSolver: 0
-  m_substepCount: 2
+  m_substepCount: 5
   m_iterationCount: 5
   m_gravity: {x: 0, y: -9.81, z: 0}
-  m_radius: 0.15
+  m_radius: 0.06
   m_solidRest: 0.1
   m_fluidRest: 0.095
   m_staticFriction: 0.1
@@ -75,11 +75,11 @@ MonoBehaviour:
   m_diffuseLifetime: 0
   m_plasticThreshold: 0
   m_plasticCreep: 0
-  m_collisionDistance: 0.05
+  m_collisionDistance: 0.09
   m_particleCollisionMargin: 0
   m_shapeCollisionMargin: 0
   m_planes: []
   m_relaxationMode: 1
-  m_relaxationFactor: 1
+  m_relaxationFactor: 0.93
   m_fluidMaterial: {fileID: 2100000, guid: e6bb4a2d00eee9b44a69e6352f81d27d, type: 2}
   m_showTimers: 0
