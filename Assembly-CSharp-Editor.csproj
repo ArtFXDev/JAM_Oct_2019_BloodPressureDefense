@@ -84,6 +84,22 @@
     <Compile Include="Assets\NVIDIA\Flex\Editor\Tests\FlexExtTests.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Editor\Tests\FlexTests.cs" />
     <Compile Include="Assets\NVIDIA\Flex\Editor\Tests\FlexUtilsTests.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\Build.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\MaterialValueDrawer.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SimulationSettingsValueDrawer.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioAmbisonicsSourceInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioBakedStaticListenerNodeInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioCustomSettingsInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioDynamicObjectInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioGeometryInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioListenerInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioManagerInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioMaterialInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioMixerReturnGUI.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioProbeBoxInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioReverbGUI.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioSourceInspector.cs" />
+    <Compile Include="Assets\SteamAudio\Editor\SteamAudioWindow.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/Documents/Repositories/JAM_Oct_2019_BloodPressureDefense/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
